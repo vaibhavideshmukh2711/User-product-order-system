@@ -20,23 +20,23 @@ SQL database integration
 
 
 ## Tech Stack
-Python
-MySQL Connector
-MySQL Database
+- Python
+- MySQL Connector
+- MySQL Database
 
 
 ## Database Tables Used
 ## user1
-uid
-mobile
-passkey
+- uid
+- mobile
+- passkey
 
 ## product
-pid
-pname
+- pid
+- pname
 
 ## orders
-oid
-uid
-pid
-product_name
+- oid
+- uid
+- pid
+- product_name
